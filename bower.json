@@ -1,0 +1,8 @@
+{
+  "name": "normalize-styl",
+  "version": "3.0.0",
+  "ignore": [
+    "bower.json",
+    ".gitignore"
+  ]
+}
