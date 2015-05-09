@@ -1,6 +1,6 @@
 # normalize.styl
 
-Stylus port of [normalize.css](https://github.com/necolas/normalize.css) v3.0.2
+Stylus port of [normalize.css](https://github.com/necolas/normalize.css) v3.0.3
 
 ## INSTALLATION
 
