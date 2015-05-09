@@ -1,0 +1,22 @@
+{
+  "name": "normalize.styl",
+  "version": "3.0.3",
+  "description": "Sylus port of normalize.css v3.0.3",
+  "main": "_normalize.styl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morishitter/normalize.styl.git"
+  },
+  "keywords": [
+    "css",
+    "stylus",
+    "normalize.css",
+    "normalize"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morishitter/normalize.styl/issues"
+  },
+  "homepage": "https://github.com/morishitter/normalize.styl"
+}
