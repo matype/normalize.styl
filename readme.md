@@ -6,7 +6,7 @@ Stylus port of [normalize.css](https://github.com/necolas/normalize.css) v3.0.3
 
 npm:
 ```
-npm install --save normalize-styl
+npm install --save normalize.styl
 ```
 
 Bower:
